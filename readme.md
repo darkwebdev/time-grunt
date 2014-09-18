@@ -4,6 +4,9 @@
 
 ![screenshot](screenshot.png)
 
+> And how it looks on windows
+
+![screenshot](https://dl.dropboxusercontent.com/u/1206404/time-grunt-win.png)
 
 ## Usage
 
